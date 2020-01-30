@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BlauerBlockKopf" size="0.060000 0.060574" />
+    <ImageTarget name="BlauerBlockSeite1" size="0.060000 0.059424" />
+    <ImageTarget name="BlauerBlockSeite2" size="0.060000 0.058934" />
+    <ImageTarget name="blauesMusterGross" size="0.060000 0.060566" />
+  </Tracking>
+</QCARConfig>

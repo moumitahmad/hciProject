@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="RotesMusterGross" size="0.060000 0.059838" />
+    <ImageTarget name="blauesMusterGross" size="0.060000 0.060566" />
+    <ImageTarget name="RotesMusterKlein" size="0.025000 0.024801" />
+    <ImageTarget name="blauesMusterKlein" size="0.025000 0.025205" />
+  </Tracking>
+</QCARConfig>
