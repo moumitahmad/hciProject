@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-01-09T14:40:31Z" name="GigiBlock7" targetId="29fd83d2f98e4c39ae3ecbd08f39522a" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-01-09T10:29:00Z" name="gigiBlock6" targetId="65ad07ffd871453a95ff6ff233bedd10" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-01-07T12:55:24Z" name="gigiBlock4" targetId="56e969473b2c45e486b1a0f31681a43e" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-01-09T11:15:59Z" name="gigiBlock9" targetId="ad044deaf19045e8bf62c12a2a440e57" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-01-09T11:04:52Z" name="gigiBlock10" targetId="017443ae05ac445a92182634104257f4" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-01-09T10:58:16Z" name="gigiBlock8" targetId="e582974318794f6c87a69d552babc4ae" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-01-09T10:06:08Z" name="gigiBlock3" targetId="14b6cfc3281d40ea980bc3fd7b40836c" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-01-09T10:16:22Z" name="gigiBlock2" targetId="13cdfa2bf17249bca229cffb2d368a18" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-01-09T09:59:05Z" name="gigiBlock1" targetId="ee93ac84629e44bcae2546ddc0b3a9a6" version="2.0" />
+  </TargetSet>
+</QCARInfo>

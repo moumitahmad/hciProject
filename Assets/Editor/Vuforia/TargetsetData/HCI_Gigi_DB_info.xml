@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-01-02T13:58:28Z" name="gigiMauer" targetId="78b5dd18286b4f45a14da64512ccd7d6" version="2.0" />
+    <ObjectTarget bbox="0.0000 0.0000 0.0000 0.1425 0.0950 0.0950" captureAppVersion="6.5.0" lastSaved="2020-01-01T21:33:52Z" name="bemalterBlock2" targetId="f31401352db348c0bb723fc79df0c4ac" version="2.0" />
+  </TargetSet>
+</QCARInfo>

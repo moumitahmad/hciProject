@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <Tracking>
+    <ObjectTarget name="GigiBlock7" />
+    <ObjectTarget name="gigiBlock6" />
+    <ObjectTarget name="gigiBlock4" />
+    <ObjectTarget name="gigiBlock9" />
+    <ObjectTarget name="gigiBlock10" />
+    <ObjectTarget name="gigiBlock8" />
+    <ObjectTarget name="gigiBlock3" />
+    <ObjectTarget name="gigiBlock2" />
+    <ObjectTarget name="gigiBlock1" />
+  </Tracking>
+</QCARConfig>
